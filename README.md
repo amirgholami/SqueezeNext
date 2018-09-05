@@ -12,3 +12,7 @@ networks were trained using [IntelCaffe](https://github.com/intelcaffe/caffe/)
 on 32 Intel KNightsLanding (KNL) using the same hyper-parameters.  Fine-tuning
 the hyper-parameters for each model may lead to better results. Our goal has been
 to show the general trend but please contact us if you got new results.
+
+
+# Other Frameworks
+For the tensorflow implementation, please see [Timen](https://github.com/Timen/squeezenext-tensorflow)'s implementation
