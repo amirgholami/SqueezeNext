@@ -15,4 +15,5 @@ to show the general trend but please contact us if you got new results.
 
 
 # Other Frameworks
-For the tensorflow implementation, please see [Timen](https://github.com/Timen/squeezenext-tensorflow)'s implementation
+- For TensorFlow implementation, please see [Timen](https://github.com/Timen/squeezenext-tensorflow)'s implementation
+- For Pytorch implementation, please see [osmr](https://github.com/osmr/imgclsmob)'s implementation
