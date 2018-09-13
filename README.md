@@ -17,3 +17,6 @@ to show the general trend but please contact us if you got new results.
 # Other Frameworks
 - For TensorFlow implementation, please see [Timen](https://github.com/Timen/squeezenext-tensorflow)'s implementation
 - For Pytorch implementation, please see [osmr](https://github.com/osmr/imgclsmob)'s implementation
+
+# Cifar-10/100, Tiny ImageNet
+- For results on these datasets, please see [luuuyi](https://github.com/luuuyi/SqueezeNext.PyTorch)'s repository
