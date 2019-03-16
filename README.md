@@ -19,8 +19,10 @@ to show the general trend but please contact us if you got new results.
 # Pytorch and Tensorflow
 Pretrained SqueezeNext models on ImageNet have been added to [imgclsmob](https://github.com/osmr/imgclsmob) repository. In Pytorch you can use the following command to load the pretrained network:
 
+```
 from pytorchcv.model_provider import get_model as ptcv_get_model
 net = ptcv_get_model(“sqnxt23_w1”, pretrained=True)
+```
 
 Other possible options for the model are "sqnxt23_w3d2", "sqnxt23_w2", "sqnxt23v5_w1", "sqnxt23v5_w3d2", "sqnxt23v5_w2".
 And this is the [link](https://github.com/osmr/imgclsmob/blob/master/pytorch/pytorchcv/models/squeezenext.py) for the corresponding network definition(s).
