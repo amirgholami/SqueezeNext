@@ -1,6 +1,6 @@
 # SqueezeNext
 
-![Block](img/sqnxt_block.png)
+![Block](misc/sqnxt_block.png)
 
 
 This repository contains the Caffe implementation of SqueezeNext.
